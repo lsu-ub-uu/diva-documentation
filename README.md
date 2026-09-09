@@ -1,1 +1,1 @@
-# diva-documentation
+# DiVA-documentation
