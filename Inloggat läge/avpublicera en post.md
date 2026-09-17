@@ -1,10 +1,10 @@
 ## Avpublicera en post
 
-Från postsidan kan en post avpubliceras så att den inte längre är publikt synlig. 
+Från postsidan kan en post avpubliceras så att den inte längre är publikt synlig. Vid avpublicering döljs hela posten och dess eventuella filer. För att endast avpublicera en fil sätts filens värde till *Opublicerad* under *Avsedd synlighet*. 
 
 
-En post kan avpubliceras genom knappen *Avpublicera*. 
+En post kan avpubliceras från visningsläget genom knappen *Avpublicera* i höger menyrad. 
 
-En post kan även avpubliceras genom att sätta om värdet till *Opublicerad* under *Postinformation*. 
+En post kan även avpubliceras i redigeringsläget genom att sätta om värdet till *Opublicerad* under *Postinformation*. 
 
-En post kan återpubliceras genom knappen *Publicera* eller att sätta om värdet till *Publicerad* under *Postinformation*.
+För att återpublicera en post används knappen *Publicera* i höger menyrad eller genom att värdet sätts om till *Publicerad* under *Postinformation*.
