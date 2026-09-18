@@ -1,4 +1,4 @@
-### Skapa en post
+## Skapa en post
 
 I övre högra hörnet finns knappen *Skapa publikation*. Motsvarande knapp finns för respektive posttyp som administreras lokalt.*Tidskrift*, *Förlag* och *Finansiär* administreras centralt av DiVA-supporten.
 
