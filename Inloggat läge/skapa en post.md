@@ -10,3 +10,4 @@ För varje publikationstyp finns det obligatoriska fält. Om en post sparas utan
 
 
 Längst ned i formuläret finns *Postinformation*. Där väljs publikationspostens avsedda synlighet, *Publicerad* eller *Opublicerad*. Det är valet som görs här som styr om hela posten syns publikt eller ej, inte att förväxla med *Avsedd synlighet* som styr om [en fil ska synas publikt eller ej](./ladda%20upp%20en%20fil.md "Ladda upp en fil")
+
