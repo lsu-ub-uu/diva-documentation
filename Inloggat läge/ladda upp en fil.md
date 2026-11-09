@@ -10,17 +10,8 @@ Vid uppladdning av en fil går det att ange ett visningsnamn som visas på publi
 
 
 ### Filens synlighet
-Under *Avsedd synlighet* finns valen *Publicerad*, *Opublicerad* och *Sekretess*. Det är valet som görs här som styr om en fil ska bli publikt synlig eller ej. Vid valet *Sekretess* är en fil ej publikt synliga och ett kan diarienummer anges.
 
-Värdet som sätts under *Avsedd synlighet* behöver kombineras med ett val under *Filer granskade*, med värdet *Ja* eller *Nej*.
-
-Valet under *Filer granskade* aktiverar värdet under *Avsedd synlighet*. Inga filer publiceras innan ett val har gjorts under *Filer granskade*, endast ett val görs oavsett hur många filer som finns uppladdade i posten. *Avsedd synlighet* väljs för varje fil. 
-
-
-#### Exempel
-Om en fil fått värdet *Publicerad* under *Avsedd synlighet* och värdet *Ja* under *Filer granskade* så publiceras filerna när posten sparas. 
-
-Om en fil däremot fått värdet *Opublicerad* under *Avsedd synlighet* och värdet sätts till *Ja* under *Filer granskade* så förblir filerna opublicerade (ej publikt synliga) när posten sparas. Detsamma gäller för en publicerad fil i en befintlig post, värdet kan ändras till *Opublicerad* under *Avsedd synlighet* för att arkivera/dölja en fil. 
+Efter uppladdning är en fil alltid opublicerad tills det aktiva valet att publicera filen görs. Vilken synlighet (*Opublicerad* eller *Publicerad*) en fil har syns under rubriken *Postens synlighet* intill den uppladdade filen. För att publicera en fil så att den blir publikt synlig används publicera-knappen för respektive fil. Samma knapp används för att avpublicera en publicerad fil.
 
 
 ### Intern anteckning
